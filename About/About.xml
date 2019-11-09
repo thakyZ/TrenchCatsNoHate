@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Trench Cats No Hate</name>
+  <author>thakyZ</author>
+  <url></url>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>Patches the Trench Cats so that they aren't xenophobic.</description>
+</ModMetaData>

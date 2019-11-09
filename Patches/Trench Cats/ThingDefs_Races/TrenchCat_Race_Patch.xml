@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationRemove">
+	  <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Alien_TrenchCat"]/alienRace/generalSettings/forcedRaceTraitEntries/li[defName="Xenophobia"]</xpath>
+  </Operation>
+</Patch>
