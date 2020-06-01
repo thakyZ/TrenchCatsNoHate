@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Manifest>
-  <idenifier>Trench Cats No Hate</identifier>
+  <identifier>Trench Cats No Hate</identifier>
   <version>1.0</version>
   <dependencies>
     <li>Trench Cats</li>
@@ -9,6 +9,6 @@
     <li>Trench Cats</li>
   </loadAfter>
   <showCrossPromotions>true</showCrossPromotions>
-  <mainfestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/thakyZ/TrenchCatsNoHate/releases/latest</downloadUri>
 </Manifest>
