@@ -3,10 +3,10 @@
   <identifier>Trench Cats No Hate</identifier>
   <version>1.0</version>
   <dependencies>
-    <li>Trench Cats</li>
+    <li>Roskii.TrenchCats</li>
   </dependencies>
   <loadAfter>
-    <li>Trench Cats</li>
+    <li>Roskii.TrenchCats</li>
   </loadAfter>
   <showCrossPromotions>true</showCrossPromotions>
   <manifestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
