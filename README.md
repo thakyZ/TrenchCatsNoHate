@@ -13,4 +13,4 @@ Must load after Trench Cats:
 ```
 
 =======================================
-Github Repo: [https://github.com/thakyZ/TrenchCatsNoHate](https://github.com/thakyZ/TrenchCatsNoHate)
+Steam Workshop: [https://steamcommunity.com/sharedfiles/filedetails/?id=1909580104](https://steamcommunity.com/sharedfiles/filedetails/?id=1909580104)

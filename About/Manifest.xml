@@ -7,6 +7,6 @@
     <li>Callistans(1.1)</li>
   </loadAfter>
   <showCrossPromotions>true</showCrossPromotions>
-  <mainfestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/thakyZ/TrenchCatsNoHate/releases/latest</downloadUri>
 </Manifest>
