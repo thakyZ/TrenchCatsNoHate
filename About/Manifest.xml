@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Manifest>
-  <idenifier>Trench Cats No Hate</identifier>
+  <idenifier>Trench Cats and Callistans No Hate</identifier>
   <version>1.2</version>
   <loadAfter>
     <li>Trench Cats</li>
