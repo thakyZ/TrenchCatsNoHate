@@ -2,6 +2,8 @@
 <ModMetaData>
   <name>Trench Cats and Callistans No Hate</name>
   <author>thakyZ</author>
+  <packageId>NekoBoiNick.TrenchCats.NoHate</packageId>
+  <description>Patches the Trench Cats and Callistans so that they aren't ever xenophobic.</description>
   <url>https://github.com/thakyZ/TrenchCatsNoHate</url>
   <supportedVersions>
     <li>1.0</li>
@@ -12,5 +14,4 @@
     <li>Roskii.TrenchCats</li>
     <li>Roskii.Callistans</li>
   </loadAfter>
-  <description>Patches the Trench Cats and Callistans so that they aren't ever xenophobic.</description>
 </ModMetaData>
