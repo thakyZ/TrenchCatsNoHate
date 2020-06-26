@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Manifest>
-  <idenifier>Trench Cats and Callistans No Hate</identifier>
+  <identifier>Trench Cats and Callistans No Hate</identifier>
   <version>1.2</version>
   <loadAfter>
     <li>Trench Cats</li>
     <li>Callistans(1.1)</li>
   </loadAfter>
-  <showCrossPromotions>true</showCrossPromotions>
+  <showCrossPromotions>false</showCrossPromotions>
   <manifestUri>https://raw.githubusercontent.com/thakyZ/TrenchCatsNoHate/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/thakyZ/TrenchCatsNoHate/releases/latest</downloadUri>
 </Manifest>
